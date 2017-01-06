@@ -1,12 +1,10 @@
-1.Learning Target
+## Learning Target
 
 learning to use redux for NavigationExperimental
 
-2.Project structure
-
+## Project structure
 
 app
-
 
   -AppContainer 
 
@@ -35,11 +33,13 @@ app
       
         -NavButton (TouchableOpacity)  
  
- 3.install 
+## install 
  
  npm install
  
- 4.demo
+## demo
  
- 
+ ![alt tag](https://github.com/lastingyeh/NaviExpAndRedux/blob/master/navi.gif)
+
+refs by https://github.com/jlyman/RN-NavigationExperimental-Redux-Example
  
