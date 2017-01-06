@@ -34,3 +34,12 @@ app
       -ModalScreen
       
         -NavButton (TouchableOpacity)  
+ 
+ 3.install 
+ 
+ npm install
+ 
+ 4.demo
+ 
+ 
+ 
