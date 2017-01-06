@@ -4,10 +4,13 @@ learning to use redux for NavigationExperimental
 
 2.Project structure
 
+
 app
-  
+
+
   -AppContainer 
-  
+
+
     -First 
     
       -FirstScreen
